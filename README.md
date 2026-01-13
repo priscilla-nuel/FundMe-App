@@ -1,4 +1,4 @@
-create a simple fundme app✅
-connect our wallet, with a nicer connect application✅
-implement the fund function
-deploy to fleek 
+create a simple fundme app✅<br>
+connect our wallet, with a nicer connect application✅<br>
+implement the fund function<br>
+deploy to fleek <br>
